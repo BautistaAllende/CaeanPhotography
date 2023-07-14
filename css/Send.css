@@ -1,0 +1,25 @@
+.botonpagina2{
+    display:flex;
+    justify-content: center;
+    border: 1px solid #666;
+    background-color: transparent;
+    color: #999;
+    padding: 14px 40px;
+    font-size: 20px;
+    top: 13px;
+  }
+  
+  
+.todo{
+    display: flex;
+    justify-content: center;
+    top: 10px;
+  }
+  
+.boton{
+    display:grid;
+  }
+  
+.titulo{
+    text-align: center;
+    }

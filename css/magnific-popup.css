@@ -1,32 +1,4 @@
 /* Magnific Popup CSS */
-.botonpagina2{
-  display:flex;
-  justify-content: center;
-  border: 1px solid #666;
-  background-color: transparent;
-  color: #999;
-  padding: 14px 40px;
-  font-size: 20px;
-  top: 13px;
-}
-
-
-.pagina2{
-  display: flex;
-  justify-content: center;
-  top: 10px;
-  align-items: center;
-}
-
-.titulos{
-  display:grid;
-  top: 140px;
-}
-
-.titulo1{
-  text-align: center;
-  }
-
 
 .mfp-bg {
     top: 0;
