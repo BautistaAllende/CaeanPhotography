@@ -1,4 +1,6 @@
 
+
+
 #loader-wrapper {
     position: fixed;
     top: 0;
@@ -145,6 +147,8 @@ body {
     background-color: rgb(255, 255, 255);
     color: #999;
     margin: 0;
+    margin-top: -30px;
+    margin-left: -40px;
 }
 a { color: #fff; text-decoration: none; }
 a:hover {  color: rgba(201, 204, 153, 0.238); }
@@ -185,7 +189,7 @@ span, footer {  line-height: 1.8; }
 
 .tm-text-small { font-size: 0.9em; }
 .tm-text-center { text-align: center; }
-.tm-text-right { text-align: right; }
+.tm-text-right { text-align: left; }
 .tm-text-primary { color: #414038; }
 .tm-text-secondary { color: #9999CC; }
 .tm-text-link { color: #999; }
@@ -219,7 +223,8 @@ span, footer {  line-height: 1.8; }
 .tm-mb-200 { margin-bottom: 200px; }
 
 /* Layout */
-.tm-section { display: flex; }
+.tm-section { display: flex; 
+margin-top: -10px;}
 
 .tm-section-col {
     flex: 0 0 50%;
